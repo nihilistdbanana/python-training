@@ -1,0 +1,7 @@
+# print hello world
+
+
+# read name as input and print "hello <name>"
+
+
+# read name and year of birth as input, calculate the age from birth year and print "hello <name>, you are <age> years old"
