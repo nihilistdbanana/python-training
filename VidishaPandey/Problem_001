@@ -1,0 +1,11 @@
+# print hello world
+print("hello world")
+
+# read name as input and print "hello <name>"
+name = input()
+print("hello", name)
+
+# read name and year of birth as input, calculate the age from birth year and print "hello <name>, you are <age> years old"
+name = input()
+yob = int(input())
+print("hello "+ name + " you are " + 2023-yob + " years old")
